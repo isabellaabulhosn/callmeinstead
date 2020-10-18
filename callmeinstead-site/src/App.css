@@ -25,15 +25,16 @@ button {
     font-size: 350px;
 }
 
-/*
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.Stop {
+  background-color: #f5351c;
+  border: none;
   color: white;
+  text-align: center;
+  display: inline-block;
+  border-radius: 15%;
+  font-size: 75px;
+  margin: 1.5rem;
+  width: 50px;
+  height: 50px;
+  font-size: 20px;
 }
-*/
